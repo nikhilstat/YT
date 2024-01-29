@@ -1,2 +1,2 @@
 # YT
-contains files created for youtube statistics video
+contains files created for Youtube videos
